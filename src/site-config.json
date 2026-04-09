@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Highland Floor Refinishing",
+    "phone": "+14406533617",
+    "category": "flooring contractor",
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Cleveland's Flooring Experts",
+      "heroSubline": "Durable, beautiful floors for Cleveland homes and businesses. Refinishing, installation, and repair services.",
+      "aboutTitle": "Decades of Cleveland Flooring Experience",
+      "aboutText": [
+        "Highland Floor Refinishing has been serving the Cleveland area with pride for over a decade. We're a family-owned business deeply rooted in the community, committed to providing exceptional flooring services.",
+        "Our approach is simple: quality craftsmanship, honest communication, and lasting results. We treat every project as if it were for our own home, ensuring meticulous attention to detail and superior workmanship.",
+        "We're proud to support local Cleveland organizations and believe in giving back to the community that has supported us. From sponsoring local sports teams to volunteering our time, we're dedicated to making Cleveland a better place to live."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled professionals delivering flawless flooring solutions."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "Using high-quality materials built to withstand Cleveland's climate."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Understanding Cleveland's homes and unique flooring needs."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work, ensuring your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Transform Your Floors Today",
+      "ctaSubline": "Get a free quote and discover the Highland Floor Refinishing difference."
+    },
+    "services": [
+      {
+        "slug": "hardwood-refinishing",
+        "name": "Hardwood Refinishing",
+        "shortDescription": "Restore the natural beauty of your hardwood floors.",
+        "description": "Hardwood refinishing is an art, and we've mastered it. Years of foot traffic, furniture scuffs, and Cleveland's harsh winters can take a toll on your hardwood. Our refinishing process brings back the luster and shine, protecting your floors for years to come. We start with a thorough sanding to remove old finishes and imperfections. Then we apply multiple coats of high-quality sealant and finish, ensuring a smooth, durable surface. We offer a variety of stain colors to match your existing décor or create a completely new look. Our dustless sanding equipment minimizes mess and keeps your home clean during the process. We understand the unique challenges of older Cleveland homes and take extra care to preserve the character and integrity of your original hardwood floors.\n\nFrom historic homes in Tremont to modern lofts in Ohio City, we've seen it all. Let us help you rediscover the beauty of your hardwood floors.",
+        "process": [
+          "Step 1: Thorough sanding to remove old finishes and imperfections.",
+          "Step 2: Application of stain (optional) to achieve desired color.",
+          "Step 3: Multiple coats of high-quality sealant and finish for durability.",
+          "Step 4: Final inspection and cleanup to ensure satisfaction."
+        ],
+        "benefits": [
+          "Restores the natural beauty of hardwood floors.",
+          "Extends the lifespan of your flooring.",
+          "Increases the value of your home.",
+          "Provides a durable and easy-to-clean surface."
+        ],
+        "faq": [
+          {
+            "question": "How long does hardwood refinishing take?",
+            "answer": "The duration depends on the size of the area and the complexity of the project, but typically it takes 3-5 days."
+          },
+          {
+            "question": "Will refinishing create a lot of dust?",
+            "answer": "We use dustless sanding equipment to minimize dust and keep your home clean during the process."
+          },
+          {
+            "question": "How long should I wait before walking on the refinished floors?",
+            "answer": "We recommend waiting at least 24 hours before walking on the floors and 72 hours before placing furniture."
+          }
+        ]
+      },
+      {
+        "slug": "hardwood-installation",
+        "name": "Hardwood Installation",
+        "shortDescription": "Install new hardwood floors for lasting beauty and value.",
+        "description": "Installing new hardwood floors is a significant investment, and we treat it as such. We offer a wide selection of hardwood species, from classic oak and maple to exotic hardwoods, to suit your style and budget. Our experienced installers ensure precise and accurate installation, paying close attention to detail to create a flawless finish. We understand the importance of proper subfloor preparation and moisture control, especially in Cleveland's humid climate, to prevent future problems. We work with both solid hardwood and engineered hardwood, offering solutions for any room in your home. Whether you're renovating a historic home in University Circle or building a new home in the suburbs, we have the expertise to deliver exceptional results.\n\nWe also offer custom hardwood designs, including borders and patterns, to create a unique and personalized look for your home.",
+        "process": [
+          "Step 1: Subfloor preparation to ensure a level and stable surface.",
+          "Step 2: Precise measurement and cutting of hardwood planks.",
+          "Step 3: Careful installation of hardwood, ensuring proper spacing and alignment.",
+          "Step 4: Finishing and sealing to protect the wood and enhance its beauty."
+        ],
+        "benefits": [
+          "Adds lasting beauty and value to your home.",
+          "Provides a durable and long-lasting flooring solution.",
+          "Offers a wide range of styles and finishes to choose from.",
+          "Increases the resale value of your property."
+        ],
+        "faq": [
+          {
+            "question": "What type of hardwood is best for my home?",
+            "answer": "The best type of hardwood depends on your style preferences, budget, and the specific needs of your home. We can help you choose the right option based on your individual requirements."
+          },
+          {
+            "question": "How long does hardwood installation take?",
+            "answer": "The duration depends on the size of the area and the complexity of the project, but typically it takes 2-4 days."
+          },
+          {
+            "question": "How do I care for my new hardwood floors?",
+            "answer": "We recommend regular sweeping and occasional damp mopping with a hardwood floor cleaner. Avoid using harsh chemicals or abrasive cleaners."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable and durable laminate flooring installation.",
+        "description": "Laminate flooring is a cost-effective and durable alternative to hardwood. It's resistant to scratches, stains, and fading, making it ideal for busy families and high-traffic areas. We offer a wide variety of laminate styles and colors to match any décor. Our experienced installers ensure a precise and professional installation, paying close attention to detail to create a seamless finish. We understand the importance of proper subfloor preparation and moisture control, especially in Cleveland homes, to prevent future problems. Our laminate flooring is easy to clean and maintain, making it a practical choice for any home.\n\nFrom basements in Lakewood to kitchens in Rocky River, we've installed laminate flooring in homes throughout the Cleveland area.",
+        "process": [
+          "Step 1: Subfloor preparation to ensure a level and stable surface.",
+          "Step 2: Precise measurement and cutting of laminate planks.",
+          "Step 3: Careful installation of laminate, ensuring proper locking and alignment.",
+          "Step 4: Finishing and cleanup to ensure a professional look."
+        ],
+        "benefits": [
+          "Affordable and cost-effective.",
+          "Durable and resistant to scratches and stains.",
+          "Easy to clean and maintain.",
+          "Wide variety of styles and colors to choose from."
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While laminate flooring is water-resistant, it is not waterproof. We recommend cleaning up spills immediately to prevent damage."
+          },
+          {
+            "question": "How long does laminate flooring installation take?",
+            "answer": "The duration depends on the size of the area, but typically it takes 1-2 days."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While it is possible to install laminate flooring yourself, we recommend professional installation to ensure a proper and long-lasting result."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof and stylish vinyl flooring solutions.",
+        "description": "Vinyl flooring is a versatile and waterproof option for bathrooms, kitchens, and basements. It's resistant to moisture, stains, and scratches, making it ideal for high-moisture areas. We offer a wide variety of vinyl styles and colors, including luxury vinyl plank (LVP) and luxury vinyl tile (LVT), to match any décor. Our experienced installers ensure a precise and professional installation, paying close attention to detail to create a seamless and waterproof finish. We understand the importance of proper subfloor preparation, especially in older Cleveland homes, to prevent future problems.\n\nWe've helped countless Cleveland homeowners find the perfect vinyl flooring solution for their homes.",
+        "process": [
+          "Step 1: Subfloor preparation to ensure a level and stable surface.",
+          "Step 2: Precise measurement and cutting of vinyl planks or tiles.",
+          "Step 3: Careful installation of vinyl, ensuring proper adhesion and sealing.",
+          "Step 4: Finishing and cleanup to ensure a waterproof and stylish look."
+        ],
+        "benefits": [
+          "Waterproof and ideal for high-moisture areas.",
+          "Durable and resistant to stains and scratches.",
+          "Easy to clean and maintain.",
+          "Wide variety of styles and colors to choose from."
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring completely waterproof?",
+            "answer": "Yes, vinyl flooring is completely waterproof, making it ideal for bathrooms, kitchens, and basements."
+          },
+          {
+            "question": "How long does vinyl flooring installation take?",
+            "answer": "The duration depends on the size of the area, but typically it takes 1-2 days."
+          },
+          {
+            "question": "Can I install vinyl flooring over existing flooring?",
+            "answer": "In some cases, it is possible to install vinyl flooring over existing flooring, but it is important to ensure that the existing flooring is level and stable."
+          }
+        ]
+      },
+      {
+        "slug": "tile-installation",
+        "name": "Tile Installation",
+        "shortDescription": "Expert tile installation for kitchens, bathrooms, and more.",
+        "description": "From backsplashes to bathrooms, our expert tile installers deliver stunning results. Cleveland winters and older homes require careful attention to detail, especially regarding moisture management. We handle all types of tile – ceramic, porcelain, glass, and natural stone. Our team ensures precise cuts, even grout lines, and proper sealing to prevent water damage. We also handle heated flooring installation, perfect for those cold Cleveland mornings. We work closely with you to select the perfect tile to match your style and budget, creating a durable and beautiful surface that will last for years to come.\n\n Whether you're renovating a Brownstone in Ohio City or updating a ranch in Parma, we've got you covered.",
+        "process": [
+          "Step 1: Surface preparation and leveling.",
+          "Step 2: Precise tile layout planning.",
+          "Step 3: Expert tile cutting and setting.",
+          "Step 4: Grouting and sealing for a durable finish."
+        ],
+        "benefits": [
+          "Durable and long-lasting flooring.",
+          "Water-resistant and easy to clean.",
+          "Adds value and style to your home.",
+          "Wide variety of styles and colors available."
+        ],
+        "faq": [
+          {
+            "question": "What type of tile is best for a bathroom?",
+            "answer": "Porcelain tile is a great choice for bathrooms due to its water resistance and durability. We can help you select the perfect tile for your specific needs."
+          },
+          {
+            "question": "How long does tile installation take?",
+            "answer": "The duration depends on the size and complexity of the project, but typically it takes 2-5 days."
+          },
+          {
+            "question": "Do you offer grout sealing services?",
+            "answer": "Yes, we offer grout sealing services to protect your grout from stains and water damage."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair",
+        "name": "Floor Repair Services",
+        "shortDescription": "Reliable floor repair for all types of flooring.",
+        "description": "Cleveland's freeze-thaw cycles and older housing stock can wreak havoc on floors. We specialize in repairing all types of flooring, from hardwood and laminate to vinyl and tile. Whether you have water damage, cracks, or loose boards, our experienced technicians can restore your floors to their original condition. We use high-quality materials and proven techniques to ensure a lasting repair. We understand the importance of matching existing flooring to maintain a seamless look. From patching holes in hardwood to replacing cracked tiles, we can handle any floor repair project.\n\nWe've seen it all, from burst pipes in Shaker Heights to settling foundations in Lakewood. Let us help you restore your floors and protect your investment.",
+        "process": [
+          "Step 1: Thorough assessment of the damage.",
+          "Step 2: Removal of damaged flooring materials.",
+          "Step 3: Repair or replacement of subfloor as needed.",
+          "Step 4: Installation of new flooring materials and finishing."
+        ],
+        "benefits": [
+          "Extends the lifespan of your floors.",
+          "Prevents further damage and costly repairs.",
+          "Restores the beauty and functionality of your floors.",
+          "Saves you money compared to replacing your entire floor."
+        ],
+        "faq": [
+          {
+            "question": "How much does floor repair cost?",
+            "answer": "The cost of floor repair depends on the extent of the damage and the type of flooring. We offer free estimates to assess your specific needs."
+          },
+          {
+            "question": "Can you match the existing flooring?",
+            "answer": "Yes, we can match most types of flooring to ensure a seamless repair."
+          },
+          {
+            "question": "How long does floor repair take?",
+            "answer": "The duration depends on the extent of the damage, but most repairs can be completed in 1-3 days."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Cleveland",
+        "slug": "cleveland-oh",
+        "state": "OH",
+        "content": "Highland Floor Refinishing is proud to serve the residents and businesses of Cleveland, Ohio. We offer a comprehensive range of flooring services, from hardwood refinishing and installation to laminate and vinyl options. Our team is dedicated to providing exceptional craftsmanship and customer service to ensure your complete satisfaction.\n\nAs a local company, we understand the unique architectural styles and flooring needs of Cleveland homes and businesses. Whether you're looking to restore the historic charm of your hardwood floors or update your space with modern flooring solutions, Highland Floor Refinishing has the expertise and experience to deliver outstanding results.",
+        "localContext": "Cleveland is a vibrant city known for its rich history, diverse neighborhoods, and thriving arts and culture scene. We are committed to providing top-quality flooring services that enhance the beauty and value of Cleveland properties.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Parma",
+          "Shaker Heights"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-oh",
+        "state": "OH",
+        "content": "Highland Floor Refinishing extends its expert flooring services to the charming city of Lakewood, Ohio. We specialize in hardwood floor refinishing, installation, and repair, as well as a wide variety of other flooring options to suit every taste and budget. Our commitment to quality workmanship and customer satisfaction sets us apart.\n\nLakewood's unique blend of historic homes and modern residences makes it a perfect place for our flooring services. We take pride in helping Lakewood homeowners enhance the beauty and value of their properties with our professional flooring solutions.",
+        "localContext": "Lakewood is a vibrant and walkable city known for its beautiful parks, lively downtown area, and strong sense of community. Highland Floor Refinishing is dedicated to serving the flooring needs of Lakewood residents and businesses.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Rocky River",
+          "Cleveland Heights"
+        ]
+      },
+      {
+        "city": "Parma",
+        "slug": "parma-oh",
+        "state": "OH",
+        "content": "Residents and businesses in Parma, Ohio, can rely on Highland Floor Refinishing for all their flooring needs. We offer a comprehensive range of services, including hardwood refinishing, installation, laminate, vinyl, and more. Our experienced team is committed to providing exceptional service and quality craftsmanship.\n\nWe understand the diverse flooring needs of Parma homeowners, from classic hardwood to modern, low-maintenance options. Highland Floor Refinishing is dedicated to helping you find the perfect flooring solution to enhance your home or business.",
+        "localContext": "Parma is a family-friendly city with a strong sense of community and a wide range of housing options. Highland Floor Refinishing is proud to serve the flooring needs of Parma residents.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Brooklyn",
+          "Seven Hills"
+        ]
+      },
+      {
+        "city": "Shaker Heights",
+        "slug": "shaker-heights-oh",
+        "state": "OH",
+        "content": "Highland Floor Refinishing is proud to offer its exceptional flooring services to the residents of Shaker Heights, Ohio. We specialize in the restoration and installation of hardwood floors, as well as other flooring options to meet the unique needs of this historic community. Our attention to detail and commitment to customer satisfaction are unmatched.\n\nShaker Heights is known for its beautiful homes and well-maintained properties, and we take pride in helping homeowners preserve and enhance the beauty of their flooring. Whether you're looking to refinish your existing hardwood floors or install new flooring, Highland Floor Refinishing is the name you can trust.",
+        "localContext": "Shaker Heights is an affluent suburb of Cleveland known for its beautiful architecture, excellent schools, and vibrant cultural scene. Highland Floor Refinishing is committed to providing top-quality flooring services to Shaker Heights residents.",
+        "nearbyAreas": [
+          "Cleveland Heights",
+          "University Heights",
+          "Beachwood"
+        ]
+      },
+      {
+        "city": "Rocky River",
+        "slug": "rocky-river-oh",
+        "state": "OH",
+        "content": "Highland Floor Refinishing provides top-notch flooring services to the residents and businesses of Rocky River, Ohio. Our expertise includes hardwood refinishing, installation, and repair, as well as a variety of other flooring options to suit any style. We are committed to delivering exceptional quality and customer satisfaction.\n\nRocky River's beautiful homes and scenic location make it a wonderful place to live, and we are proud to help homeowners enhance their properties with our professional flooring solutions. From classic hardwood to modern alternatives, we have the expertise to meet your needs.",
+        "localContext": "Rocky River is a charming city located on the shores of Lake Erie, known for its beautiful parks, excellent schools, and strong sense of community. Highland Floor Refinishing is dedicated to serving the flooring needs of Rocky River residents.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Bay Village",
+          "Fairview Park"
+        ]
+      },
+      {
+        "city": "Strongsville",
+        "slug": "strongsville-oh",
+        "state": "OH",
+        "content": "Highland Floor Refinishing extends its services to Strongsville, Ohio, providing expert flooring solutions for homes and businesses. We specialize in hardwood floor refinishing and installation, along with a variety of other flooring options to meet diverse needs. Our dedication to quality and customer satisfaction is our top priority.\n\nStrongsville's growing community and diverse housing styles make it an ideal location for our flooring services. We take pride in helping Strongsville homeowners improve the appearance and value of their properties with our professional flooring services.",
+        "localContext": "Strongsville is a thriving suburban city known for its excellent schools, family-friendly atmosphere, and convenient location. Highland Floor Refinishing is pleased to offer its flooring expertise to the residents of Strongsville.",
+        "nearbyAreas": [
+          "North Royalton",
+          "Brunswick",
+          "Middleburg Heights"
+        ]
+      },
+      {
+        "city": "Westlake",
+        "slug": "westlake-oh",
+        "state": "OH",
+        "content": "Highland Floor Refinishing is pleased to offer its flooring expertise to the residents of Westlake, Ohio. We provide a comprehensive range of services, including hardwood refinishing, installation, and repair, as well as other flooring options to match your specific requirements. Our commitment to providing top-notch service and quality craftsmanship sets us apart.\n\nWestlake is known for its beautiful homes and well-maintained properties, and we take pride in helping homeowners preserve and enhance the beauty of their flooring. Whether you're looking to restore your existing hardwood floors or install new flooring, Highland Floor Refinishing is the trusted choice.",
+        "localContext": "Westlake is an affluent suburb of Cleveland known for its excellent schools, upscale shopping, and beautiful parks. Highland Floor Refinishing is dedicated to providing top-quality flooring services to Westlake residents.",
+        "nearbyAreas": [
+          "Bay Village",
+          "North Olmsted",
+          "Avon"
+        ]
+      },
+      {
+        "city": "Avon",
+        "slug": "avon-oh",
+        "state": "OH",
+        "content": "Highland Floor Refinishing proudly serves the community of Avon, Ohio, offering a complete suite of flooring services tailored to your needs. From hardwood refinishing and new installations to laminate and vinyl options, we ensure every project reflects our commitment to quality and customer satisfaction.\n\nAvon's blend of modern homes and established neighborhoods provides a diverse range of flooring requirements. We are dedicated to helping Avon homeowners and businesses enhance their spaces with durable and beautiful flooring solutions.",
+        "localContext": "Avon is a rapidly growing city known for its family-friendly environment, excellent schools, and vibrant community spirit. Highland Floor Refinishing is committed to supporting the growth and beauty of Avon through expert flooring services.",
+        "nearbyAreas": [
+          "Avon Lake",
+          "North Ridgeville",
+          "Westlake"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Hardwood Refinishing",
+        "text": "Highland Floor Refinishing did an amazing job refinishing our hardwood floors in our 1920s home in Lakewood. They were professional, efficient, and the floors look brand new! The dustless sanding was a lifesaver.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Laminate Flooring",
+        "text": "We had Highland Floor Refinishing install laminate flooring in our basement. The price was fair, and the installation was quick and easy. There was one small issue with a seam, but they came back and fixed it right away.",
+        "date": "2024-11-02"
+      },
+      {
+        "name": "Maria L.",
+        "rating": 5,
+        "service": "Tile Installation",
+        "text": "We hired Highland Floor Refinishing to install a new tile backsplash in our kitchen. They did a fantastic job, and the tile looks beautiful. The installers were professional and courteous.",
+        "date": "2024-08-20"
+      },
+      {
+        "name": "David P.",
+        "rating": 5,
+        "service": "Hardwood Installation",
+        "text": "After doing tons of research, we chose Highland for our new hardwood floors. The team was communicative and professional from start to finish. They delivered on time and on budget. Highly recommend!",
+        "date": "2024-06-01"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Vinyl Flooring",
+        "text": "Highland Floor Refinishing installed vinyl plank flooring in our bathroom. The flooring looks great, and it's completely waterproof, which is exactly what we wanted. The only reason I didn't give them 5 stars is that the scheduling was a little confusing at first.",
+        "date": "2024-04-10"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Floor Repair Services",
+        "text": "I had some water damage to my hardwood floors and Highland Floor Refinishing was able to repair the damage quickly and effectively. They matched the existing flooring perfectly, and you can't even tell there was ever any damage.",
+        "date": "2023-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Highland Floor Refinishing | Cleveland, OH",
+        "description": "Cleveland's trusted flooring contractor. Hardwood, laminate, vinyl, tile. Installation, refinishing, repair. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Highland Floor Refinishing",
+        "description": "Learn about Highland Floor Refinishing, Cleveland's experienced and reliable flooring contractor. Family-owned and community-focused."
+      },
+      "services": {
+        "title": "Flooring Services | Highland Floor Refinishing",
+        "description": "Comprehensive flooring services in Cleveland. Hardwood refinishing, laminate installation, vinyl flooring, tile work, and more."
+      },
+      "contact": {
+        "title": "Contact Us | Highland Floor Refinishing",
+        "description": "Contact Highland Floor Refinishing for a free quote. Call +14406533617 for expert flooring services in Cleveland, OH."
+      },
+      "reviews": {
+        "title": "Reviews | Highland Floor Refinishing",
+        "description": "Read reviews from satisfied Highland Floor Refinishing customers in Cleveland. See why we're the trusted choice for flooring."
+      },
+      "service-areas": {
+        "title": "Service Areas | Highland Floor Refinishing",
+        "description": "Highland Floor Refinishing provides flooring services throughout Cleveland and surrounding areas. See our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-refinishing": "/images/service-hardwood-refinishing.webp",
+      "hardwood-installation": "/images/service-hardwood-installation.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "tile-installation": "/images/service-tile-installation.webp",
+      "floor-repair": "/images/service-floor-repair.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-refinishing": {
+        "src": "/images/service-hardwood-refinishing.webp",
+        "srcset": "/images/service-hardwood-refinishing-400w.webp 400w, /images/service-hardwood-refinishing-800w.webp 800w, /images/service-hardwood-refinishing-1200w.webp 1200w, /images/service-hardwood-refinishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardwood-installation": {
+        "src": "/images/service-hardwood-installation.webp",
+        "srcset": "/images/service-hardwood-installation-400w.webp 400w, /images/service-hardwood-installation-800w.webp 800w, /images/service-hardwood-installation-1200w.webp 1200w, /images/service-hardwood-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-installation": {
+        "src": "/images/service-tile-installation.webp",
+        "srcset": "/images/service-tile-installation-400w.webp 400w, /images/service-tile-installation-800w.webp 800w, /images/service-tile-installation-1200w.webp 1200w, /images/service-tile-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair": {
+        "src": "/images/service-floor-repair.webp",
+        "srcset": "/images/service-floor-repair-400w.webp 400w, /images/service-floor-repair-800w.webp 800w, /images/service-floor-repair-1200w.webp 1200w, /images/service-floor-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

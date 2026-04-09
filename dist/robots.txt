@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-highland-floor-refinishing.dream-surge.com/sitemap-index.xml
